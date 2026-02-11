@@ -1,0 +1,14 @@
+1732175735 /lab/sck17/Pulpit/SCKproj1/sck_proj2/MODEL/proj.v
+1737020213 /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/MODEL/ALU.v
+1728554515 /lab/sck17/Pobrane/SCK_PROJ_0/MODEL/proj.v
+1733394281 /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/TESTBENCH/teb.v
+1732178478 /lab/sck17/Pulpit/SCKproj1/sck_proj2/MODEL/ALU.v
+1735912358 /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/MODEL/REGS.v
+1730974119 /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_1/TESTBENCH/testbench.v
+1732178473 /lab/sck17/Pulpit/SCKproj1/sck_proj2/TESTBENCH/tb_REG8S.v
+1730972880 /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_1/MODEL/proj.v
+1737014652 /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/TESTBENCH/EXE_tb.v
+1728554428 /lab/sck17/Pobrane/SCK_PROJ_0/TESTBENCH/testbench.v
+1732178475 /lab/sck17/Pulpit/SCKproj1/sck_proj2/MODEL/REG8S.v
+1732175740 /lab/sck17/Pulpit/SCKproj1/sck_proj2/TESTBENCH/testbench.v
+1732785272 /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/MODEL/EXE.v

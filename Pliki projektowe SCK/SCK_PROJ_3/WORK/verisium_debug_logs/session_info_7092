@@ -1,0 +1,31 @@
+Design
+	Design Connection Mode: LWD
+	Design Agent PID: 12509
+	Design/LWD Path: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/WORK/xcelium.d/worklib/EXE_tb/v/debug_db/EXE_tb/EXE_tb.dsn
+	Design Database: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/WORK/xcelium.d/worklib/EXE_tb/v/debug_db/debug_db_design
+Host Info
+	Hostname: cad103.imio.pw.edu.pl
+	Verisium Debug PID: 7092
+	OS Version: 4.18.0-553.32.1.el8_10.x86_64
+	OS Architecture: amd64
+	Scripting Port: 41141
+	OS Release: Rocky Linux release 8.10 (Green Obsidian)
+	Window Manager: Metacity
+	Available Cores: 20
+Databases
+	SHM Database: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/WORK/sim_model
+Versions
+	xcelium version: 24.03-s004
+	lwd/snapshot version: 24.03-s004
+	Verisium Debug Version: 24.03.001-s
+Invocation command: /cad/cadence_2025/verisium/tools/bin/verisium_debug   -wave_db sim_model
+Log Files
+	env log: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/WORK/verisium_debug_logs/env.log
+	verisium_debug log: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/WORK/verisium_debug_logs/verisium_debug.log
+	verisium_debug_karaf log: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/WORK/verisium_debug_logs/verisium_debug_karaf.log
+	ida log: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/WORK/verisium_debug_logs/ida.log
+	cdns_vwdbr log: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/WORK/verisium_debug_logs/cdns_vwdbr.log
+	verisium_debug_lwd log: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/WORK/verisium_debug_logs/verisium_debug_lwd.log
+	perf log: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/WORK/verisium_debug_logs/perf.log
+	ida_diagnostics log: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_2/WORK/verisium_debug_logs/ida_diagnostics.log
+Session Recording Time: 03/01/25 15:39:43

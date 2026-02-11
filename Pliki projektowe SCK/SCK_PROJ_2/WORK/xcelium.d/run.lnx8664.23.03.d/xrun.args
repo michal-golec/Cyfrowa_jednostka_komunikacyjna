@@ -1,0 +1,20 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-timescale
+1ns/1ps
+-input
+sim_model.cmd
+-incdir
+../MODEL
+-licqueue
+-access
++rwc
+-createdebugdb
+-errormax
+1
+../MODEL/EXE.v
+../MODEL/ALU.v
+../MODEL/REGS.v
+../TESTBENCH/EXE_tb.v

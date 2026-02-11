@@ -1,0 +1,6 @@
+1728554515 /lab/sck17/Pobrane/SCK_PROJ_0/MODEL/proj.v
+1730974119 /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_1/TESTBENCH/testbench.v
+1737018230 /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_1/MODEL/ALU.v
+1730972880 /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_1/MODEL/proj.v
+1728554428 /lab/sck17/Pobrane/SCK_PROJ_0/TESTBENCH/testbench.v
+1732785782 /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_1/TESTBENCH/ALU_tb.v

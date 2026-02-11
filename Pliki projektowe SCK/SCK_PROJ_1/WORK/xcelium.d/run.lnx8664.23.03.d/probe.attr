@@ -1,0 +1,16 @@
+lwd_dir /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_1/WORK/xcelium.d/worklib/ALU_tb/v/debug_db/ALU_tb/../..
+snapshot_name worklib.ALU_tb:v
+cells 1
+hostname cad3.imio.pw.edu.pl
+work_directory /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_1/WORK
+autofetch 0
+persistent_sources 0
+cdslib ./xcelium.d/run.lnx8664.23.03.d/cds.lib
+cds_implicit_tmplib worklib
+hdlvar ./xcelium.d/run.lnx8664.23.03.d/hdl.var
+platform x86_64
+bits 64
+du-agent YES
+xprop 0
+automsie 0
+cds_libs /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_1/WORK/xcelium.d/run.lnx8664.23.03.d/cds.lib /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_1/WORK/xcelium.d/run.lnx8664.23.03.d/cdsrun.lib

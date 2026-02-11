@@ -1,0 +1,13 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-timescale
+1ns/1ps
+-ACCESS
++rwc
+-CREATEDEBUGDB
+
+testbench
+-SDF_CMD_FILE
+gates_sdf_slow.cmd

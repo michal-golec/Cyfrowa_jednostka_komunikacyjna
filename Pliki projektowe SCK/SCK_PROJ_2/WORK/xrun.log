@@ -1,0 +1,27 @@
+xrun(64): 23.03-s007: (c) Copyright 1995-2023 Cadence Design Systems, Inc.
+TOOL:	xrun(64)	23.03-s007: Started on Jan 16, 2025 at 10:41:57 CET
+xrun
+	-timescale 1ns/1ps
+	-input sim_model.cmd
+	-incdir ../MODEL
+	-64
+	-licqueue
+	-access +rwc
+	-createdebugdb
+	-errormax 1
+	../MODEL/EXE.v
+	../MODEL/ALU.v
+	../MODEL/REGS.v
+	../TESTBENCH/EXE_tb.v
+Loading snapshot worklib.EXE_tb:v .................... Done
+xcelium> source /cad/cadence_2024/xcelium/tools/xcelium/files/xmsimrc
+xcelium> 
+xcelium> database -open sim_model -event -shm -into sim_model -default
+Created default SHM database sim_model
+xcelium> probe -all -memories -functions -tasks -depth all -database sim_model -create
+Created probe 1
+xcelium> run
+Simulation complete via $finish(1) at time 122500 PS + 0
+../TESTBENCH/EXE_tb.v:145         #10 $finish;
+xcelium> exit
+TOOL:	xrun(64)	23.03-s007: Exiting on Jan 16, 2025 at 10:41:58 CET  (total: 00:00:01)

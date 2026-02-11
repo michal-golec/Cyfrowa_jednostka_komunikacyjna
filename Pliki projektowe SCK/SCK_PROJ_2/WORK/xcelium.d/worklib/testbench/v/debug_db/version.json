@@ -1,0 +1,17 @@
+{
+    "xlm_snapshot": "testbench",
+    "xlm_lib": "worklib",
+    "xlm_view": "v",
+    "lwd_version": "09\/21\/23+05:33:31",
+    "install_root": "\/cad\/cadence_2024\/xcelium",
+    "xlm_version": "23.03-s007",
+    "build_date": "2023.09.21",
+    "xlm_plat": "x86_64",
+    "xlm_bits": "64",
+    "real_as_wreal": "0",
+    "reals_recorded": "0",
+    "features":
+    {
+        "AVSREQ_195145": "1"
+    }
+}

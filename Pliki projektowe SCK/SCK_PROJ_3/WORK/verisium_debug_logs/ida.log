@@ -1,0 +1,336 @@
+15:07:45:745 [important] [Indago DAC notify callback receiver] WARN  - Got dakNotify_State_Exit event with data: why user
+15:07:46:746 [important] [FelixStartLevel] INFO  - xmsim gcc version is 9.3.0
+15:07:46:746 [important] [FelixStartLevel] INFO  - indago gcc version is 9.3.0
+15:07:47:747 [com.cadence.smartlog.bl.common.SLUtils] [TangoTaskManager-7] INFO  - query: 
+15:07:51:751 [important] [TangoTaskManager-2] INFO  - ScriptingActivator while loop has finished
+15:07:52:752 [user_actions] [AWT-EventQueue-0] DEBUG - showIdentifierSource (GSLShowDeclarationSourceAction)
+	source = designTopsTreeTable
+	entity = EXE_tb
+
+15:07:57:757 [user_actions] [AWT-EventQueue-0] DEBUG - Don't Restore (GUFIQuestionDialog$1)
+	dialog = autoRestoreUserState (GUFIQuestionDialog)
+
+15:08:00:80 [user_actions] [AWT-EventQueue-0] DEBUG - dndaction (GUFITransferHandler$DnDAction)
+	source = designTopsTreeTable_topsSignalsTreeTable (GSLSignalTopsTreeTable)
+	target = designTopsTreeTable_topsSignalsTreeTable (GSLSignalTopsTreeTable)
+	entity = EXE_tb.i
+
+15:08:05:85 [user_actions] [AWT-EventQueue-0] DEBUG - showInstTypeDeclaration (GSLShowInstTypeDeclaration)
+	source = designTopsTreeTable
+	entity = EXE_tb
+
+15:08:07:87 [user_actions] [AWT-EventQueue-0] DEBUG - dndaction (GUFITransferHandler$DnDAction)
+	source = designTopsTreeTable (GSLDesignTopsTreeTable)
+	target = WAVEFORMTreeTable (GTXWaveTreeTable)
+	entity = EXE_tb
+
+15:08:13:813 [user_actions] [AWT-EventQueue-0] DEBUG - CutAction (GUFIBaseActionManager$CutAction)
+
+15:08:23:823 [user_actions] [AWT-EventQueue-0] DEBUG - Delete (RemoveSignalsAction)
+	selected = EXE_tb
+
+15:08:34:834 [user_actions] [AWT-EventQueue-0] DEBUG - dndaction (GUFITransferHandler$DnDAction)
+	source = designTopsTreeTable_topsSignalsTreeTable (GSLSignalTopsTreeTable)
+	target = WAVEFORMTreeTable (GTXWaveTreeTable)
+	entities[13] = 
+		[0] EXE_tb.exe1.data0[5:0]
+		[1] EXE_tb.exe1.data1[5:0]
+		..
+		[6] EXE_tb.exe1.i_oper[2:0]
+		..
+		[11] EXE_tb.exe1.o_data[5:0]
+		[12] EXE_tb.exe1.o_flag[3:0]
+
+15:12:56:1256 [user_actions] [AWT-EventQueue-0] DEBUG - Connectivity (GSLSourceReferenceActionsFactory$22)
+	sourceRefs[0] = 
+
+15:12:56:1256 [user_actions] [AWT-EventQueue-0] DEBUG - ReloadDatabaseAction (GSLReloadDatabaseAction)
+
+15:13:06:136 [important] [Indago DAC notify callback receiver] WARN  - Got dakNotify_State_Exit event with data: why user
+15:13:06:136 [com.cadence.smartlog.bl.common.SLUtils] [TangoTaskManager-12] INFO  - query: 
+15:13:07:137 [user_actions] [AWT-EventQueue-0] DEBUG - ok (TopsSignalTypeFilterDialog$5)
+
+15:13:09:139 [user_actions] [AWT-EventQueue-0] DEBUG - OK (GUFIQuestionDialog$1)
+	dialog = okDialog (GSLReloadDatabaseAction$5)
+
+15:13:13:1313 [user_actions] [AWT-EventQueue-0] DEBUG - dndaction (GUFITransferHandler$DnDAction)
+	source = designTopsTreeTable (GSLDesignTopsTreeTable)
+	target = WAVEFORMTreeTable (GTXWaveTreeTable)
+	entity = EXE_tb.exe1
+
+15:14:46:1446 [user_actions] [AWT-EventQueue-0] DEBUG - ReloadDatabaseAction (GSLReloadDatabaseAction)
+
+15:14:47:1447 [com.cadence.smartlog.bl.common.SLUtils] [TangoTaskManager-22] INFO  - query: 
+15:14:47:1447 [important] [Indago DAC notify callback receiver] WARN  - Got dakNotify_State_Exit event with data: why user
+15:14:48:1448 [user_actions] [AWT-EventQueue-0] DEBUG - ok (TopsSignalTypeFilterDialog$5)
+
+15:15:04:154 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:15:04:154 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:15:05:155 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:15:05:155 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:15:05:155 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:15:06:156 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:15:06:156 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:15:39:1539 [user_actions] [AWT-EventQueue-0] DEBUG - ReloadDatabaseAction (GSLReloadDatabaseAction)
+
+15:15:40:1540 [com.cadence.smartlog.bl.common.SLUtils] [TangoTaskManager-37] INFO  - query: 
+15:15:40:1540 [important] [Indago DAC notify callback receiver] WARN  - Got dakNotify_State_Exit event with data: why user
+15:15:41:1541 [user_actions] [AWT-EventQueue-0] DEBUG - ok (TopsSignalTypeFilterDialog$5)
+
+15:15:45:1545 [user_actions] [AWT-EventQueue-0] DEBUG - OK (GUFIQuestionDialog$1)
+	dialog = okDialog (GSLReloadDatabaseAction$5)
+
+15:17:58:1758 [user_actions] [AWT-EventQueue-0] DEBUG - ReloadDatabaseAction (GSLReloadDatabaseAction)
+
+15:17:59:1759 [com.cadence.smartlog.bl.common.SLUtils] [TangoTaskManager-16] INFO  - query: 
+15:17:59:1759 [important] [Indago DAC notify callback receiver] WARN  - Got dakNotify_State_Exit event with data: why user
+15:17:59:1759 [user_actions] [AWT-EventQueue-0] DEBUG - ok (TopsSignalTypeFilterDialog$5)
+
+15:18:00:180 [user_actions] [AWT-EventQueue-0] DEBUG - OK (GUFIQuestionDialog$1)
+	dialog = okDialog (GSLReloadDatabaseAction$5)
+
+15:18:23:1823 [user_actions] [AWT-EventQueue-0] DEBUG - dndaction (GUFITransferHandler$DnDAction)
+	source = designTopsTreeTable (GSLDesignTopsTreeTable)
+	target = WAVEFORMTreeTable (GTXWaveTreeTable)
+	entity = EXE_tb.exe1
+
+15:19:04:194 [user_actions] [AWT-EventQueue-0] DEBUG - dndaction (GUFITransferHandler$DnDAction)
+	source = WAVEFORMTreeTable (GTXWaveTreeTable)
+	target = WAVEFORMTreeTable (GTXWaveTreeTable)
+	entity = EXE_tb.exe1.data0[5:0]
+
+15:19:12:1912 [user_actions] [AWT-EventQueue-0] DEBUG - Delete_Backspace (RemoveSignalsAction)
+	selected[37] = 
+		[0] EXE_tb.exe1.data1[5:0]
+		[1] EXE_tb.exe1.i_clk
+		..
+		[18] EXE_tb.exe1.i_reg0[3:0]
+		..
+		[35] EXE_tb.exe1.o_data[5:0]
+		[36] EXE_tb.exe1.o_flag[3:0]
+
+15:19:16:1916 [user_actions] [AWT-EventQueue-0] DEBUG - dndaction (GUFITransferHandler$DnDAction)
+	source = designTopsTreeTable (GSLDesignTopsTreeTable)
+	target = WAVEFORMTreeTable (GTXWaveTreeTable)
+	entity = EXE_tb.exe1
+
+15:22:28:2228 [user_actions] [AWT-EventQueue-0] DEBUG - ReloadDatabaseAction (GSLReloadDatabaseAction)
+
+15:22:29:2229 [com.cadence.smartlog.bl.common.SLUtils] [TangoTaskManager-57] INFO  - query: 
+15:22:29:2229 [important] [Indago DAC notify callback receiver] WARN  - Got dakNotify_State_Exit event with data: why user
+15:22:30:2230 [user_actions] [AWT-EventQueue-0] DEBUG - ok (TopsSignalTypeFilterDialog$5)
+
+15:23:36:2336 [user_actions] [AWT-EventQueue-0] DEBUG - ReloadDatabaseAction (GSLReloadDatabaseAction)
+
+15:23:37:2337 [com.cadence.smartlog.bl.common.SLUtils] [TangoTaskManager-92] INFO  - query: 
+15:23:37:2337 [important] [Indago DAC notify callback receiver] WARN  - Got dakNotify_State_Exit event with data: why user
+15:23:37:2337 [user_actions] [AWT-EventQueue-0] DEBUG - ok (TopsSignalTypeFilterDialog$5)
+
+15:25:39:2539 [user_actions] [AWT-EventQueue-0] DEBUG - ReloadDatabaseAction (GSLReloadDatabaseAction)
+
+15:25:40:2540 [important] [Indago DAC notify callback receiver] WARN  - Got dakNotify_State_Exit event with data: why user
+15:25:40:2540 [com.cadence.smartlog.bl.common.SLUtils] [TangoTaskManager-120] INFO  - query: 
+15:25:40:2540 [user_actions] [AWT-EventQueue-0] DEBUG - ok (TopsSignalTypeFilterDialog$5)
+
+15:25:55:2555 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:25:55:2555 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:25:55:2555 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:25:56:2556 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:25:56:2556 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:25:56:2556 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:25:56:2556 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:25:57:2557 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:27:56:2756 [user_actions] [AWT-EventQueue-0] DEBUG - Decimal (GSLEntityRadixChangeAction)
+
+15:28:14:2814 [user_actions] [AWT-EventQueue-0] DEBUG - Signed Decimal 2's Complement (GSLEntityRadixChangeAction)
+
+15:28:20:2820 [user_actions] [AWT-EventQueue-0] DEBUG - dndaction (GUFITransferHandler$DnDAction)
+	source = designTopsTreeTable_topsSignalsTreeTable (GSLSignalTopsTreeTable)
+	target = designTopsTreeTable_topsSignalsTreeTable (GSLSignalTopsTreeTable)
+	entity = EXE_tb.exe1.i_oper[2:0]
+
+15:29:12:2912 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.i_data[5:0]
+
+15:29:12:2912 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.i_data[5:0]
+
+15:29:12:2912 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.i_data[5:0]
+
+15:29:13:2913 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.i_data[5:0]
+
+15:29:13:2913 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.i_data[5:0]
+
+15:29:13:2913 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.i_data[5:0]
+
+15:29:13:2913 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.i_data[5:0]
+
+15:29:13:2913 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.i_data[5:0]
+
+15:29:22:2922 [user_actions] [AWT-EventQueue-0] DEBUG - Delete_Backspace (RemoveSignalsAction)
+	selected = EXE_tb
+
+15:29:24:2924 [user_actions] [AWT-EventQueue-0] DEBUG - dndaction (GUFITransferHandler$DnDAction)
+	source = designTopsTreeTable (GSLDesignTopsTreeTable)
+	target = WAVEFORMTreeTable (GTXWaveTreeTable)
+	entity = EXE_tb.exe1
+
+15:30:12:3012 [user_actions] [AWT-EventQueue-0] DEBUG - ReloadDatabaseAction (GSLReloadDatabaseAction)
+
+15:30:13:3013 [com.cadence.smartlog.bl.common.SLUtils] [TangoTaskManager-143] INFO  - query: 
+15:30:13:3013 [important] [Indago DAC notify callback receiver] WARN  - Got dakNotify_State_Exit event with data: why user
+15:30:13:3013 [user_actions] [AWT-EventQueue-0] DEBUG - ok (TopsSignalTypeFilterDialog$5)
+
+15:30:15:3015 [user_actions] [AWT-EventQueue-0] DEBUG - OK (GUFIQuestionDialog$1)
+	dialog = okDialog (GSLReloadDatabaseAction$5)
+
+15:30:17:3017 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.i_reg1[3:0]
+
+15:34:40:3440 [user_actions] [AWT-EventQueue-0] DEBUG - ReloadDatabaseAction (GSLReloadDatabaseAction)
+
+15:34:41:3441 [com.cadence.smartlog.bl.common.SLUtils] [TangoTaskManager-167] INFO  - query: 
+15:34:41:3441 [important] [Indago DAC notify callback receiver] WARN  - Got dakNotify_State_Exit event with data: why user
+15:34:42:3442 [user_actions] [AWT-EventQueue-0] DEBUG - ok (TopsSignalTypeFilterDialog$5)
+
+15:34:43:3443 [user_actions] [AWT-EventQueue-0] DEBUG - OK (GUFIQuestionDialog$1)
+	dialog = okDialog (GSLReloadDatabaseAction$5)
+
+15:35:24:3524 [user_actions] [AWT-EventQueue-0] DEBUG - ReloadDatabaseAction (GSLReloadDatabaseAction)
+
+15:35:25:3525 [com.cadence.smartlog.bl.common.SLUtils] [TangoTaskManager-177] INFO  - query: 
+15:35:25:3525 [important] [Indago DAC notify callback receiver] WARN  - Got dakNotify_State_Exit event with data: why user
+15:35:26:3526 [user_actions] [AWT-EventQueue-0] DEBUG - ok (TopsSignalTypeFilterDialog$5)
+
+15:35:39:3539 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:35:39:3539 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:35:39:3539 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:35:40:3540 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:35:40:3540 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:35:40:3540 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:35:40:3540 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:35:40:3540 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:35:40:3540 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:39:43:3943 [user_actions] [AWT-EventQueue-0] DEBUG - ReloadDatabaseAction (GSLReloadDatabaseAction)
+
+15:39:44:3944 [com.cadence.smartlog.bl.common.SLUtils] [TangoTaskManager-176] INFO  - query: 
+15:39:44:3944 [important] [Indago DAC notify callback receiver] WARN  - Got dakNotify_State_Exit event with data: why user
+15:39:45:3945 [user_actions] [AWT-EventQueue-0] DEBUG - ok (TopsSignalTypeFilterDialog$5)
+
+15:39:52:3952 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:39:52:3952 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:39:52:3952 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:39:53:3953 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:39:53:3953 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:39:53:3953 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:39:53:3953 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:39:53:3953 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:39:54:3954 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:39:54:3954 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:40:22:4022 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:40:23:4023 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:40:23:4023 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:40:23:4023 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:40:23:4023 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:40:24:4024 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:40:24:4024 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:40:24:4024 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:40:24:4024 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:40:46:4046 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom In (ZoomAction)
+	selected = EXE_tb.exe1.u2
+
+15:41:40:4140 [user_actions] [AWT-EventQueue-0] DEBUG - Zoom Out (ZoomAction)
+	selected = EXE_tb.exe1.u2
+

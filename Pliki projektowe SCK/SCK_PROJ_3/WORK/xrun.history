@@ -1,0 +1,103 @@
+s1(10Oct2024:11:19:18):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s2(10Oct2024:11:21:12):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s3(10Oct2024:11:21:56):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s4(10Oct2024:11:28:32):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s5(10Oct2024:11:30:23):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s6(10Oct2024:11:39:49):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s7(10Oct2024:11:43:36):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s8(10Oct2024:11:45:02):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s9(10Oct2024:11:47:34):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s10(10Oct2024:11:52:01):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s11(10Oct2024:11:54:35):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s12(10Oct2024:11:56:54):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s13(10Oct2024:11:59:28):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s14(10Oct2024:12:02:25):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s15(04Nov2024:11:08:15):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s16(04Nov2024:11:10:41):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s17(04Nov2024:11:12:51):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s18(04Nov2024:11:13:49):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s19(04Nov2024:11:19:29):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s20(04Nov2024:11:23:30):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s21(04Nov2024:11:25:14):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s22(04Nov2024:11:26:04):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s23(04Nov2024:11:26:24):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s24(04Nov2024:11:26:45):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s25(04Nov2024:11:32:28):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s26(04Nov2024:11:34:43):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s27(07Nov2024:10:45:42):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s28(07Nov2024:10:48:42):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s29(07Nov2024:10:53:35):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s30(07Nov2024:10:59:22):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s31(07Nov2024:11:00:59):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s32(07Nov2024:11:06:35):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s33(07Nov2024:11:08:05):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s34(07Nov2024:11:08:47):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../TESTBENCH/testbench.v 
+s35(21Nov2024:09:44:34):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/proj.v ../MODEL/REG8S.v ../MODEL/ALU.v ../TESTBENCH/testbench.v ../TESTBENCH/tb_REG8S.v 
+s36(28Nov2024:10:21:27):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/REGS.v ../MODEL/ALUprim.v ../MODEL/ALU.v ../TESTBENCH/ALU_tb.v ../TESTBENCH/EXE_tb.v 
+s37(28Nov2024:10:23:25):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/REGS.v ../MODEL/ALU.v ../TESTBENCH/EXE_tb.v 
+s38(28Nov2024:10:27:35):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s39(28Nov2024:10:40:57):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s40(28Nov2024:11:02:51):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s41(28Nov2024:11:03:42):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s42(28Nov2024:11:24:16):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s43(28Nov2024:11:26:06):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s44(28Nov2024:11:26:59):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s45(28Nov2024:11:32:26):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s46(28Nov2024:11:33:40):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s47(28Nov2024:11:35:17):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s48(28Nov2024:11:38:02):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s49(28Nov2024:11:42:26):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s50(28Nov2024:11:43:25):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s51(28Nov2024:11:45:13):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s52(28Nov2024:11:52:04):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s53(28Nov2024:11:53:05):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s54(28Nov2024:11:53:55):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s55(28Nov2024:11:57:07):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s56(28Nov2024:11:58:14):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s57(28Nov2024:12:00:30):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s58(28Nov2024:12:01:38):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s59(28Nov2024:12:03:39):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s60(05Dec2024:10:57:50):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s61(05Dec2024:11:11:53):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s62(05Dec2024:11:13:42):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s63(05Dec2024:11:24:46):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/teb.v 
+s64(05Dec2024:11:34:17):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s65(05Dec2024:11:35:07):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s66(05Dec2024:11:35:56):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s67(05Dec2024:11:38:41):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s68(05Dec2024:11:39:24):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s69(05Dec2024:11:45:50):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s70(05Dec2024:11:47:34):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+s71(05Dec2024:11:54:09):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+#e72(03Jan2025:15:06:28): source ./xcelium.d/env.d/env.history.03Jan2025_15_06_28
+s72(03Jan2025:15:06:28):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../TESTBENCH/EXE_tb.v 
+#e73(03Jan2025:15:07:29): source ./xcelium.d/env.d/env.history.03Jan2025_15_07_29
+s73(03Jan2025:15:07:29):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 
+#e74(03Jan2025:15:12:40): source ./xcelium.d/env.d/env.history.03Jan2025_15_12_40
+s74(03Jan2025:15:12:40):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 
+#e75(03Jan2025:15:14:40): source ./xcelium.d/env.d/env.history.03Jan2025_15_14_40
+s75(03Jan2025:15:14:40):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 
+#e76(03Jan2025:15:15:33): source ./xcelium.d/env.d/env.history.03Jan2025_15_15_33
+s76(03Jan2025:15:15:33):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 
+#e77(03Jan2025:15:17:12): source ./xcelium.d/env.d/env.history.03Jan2025_15_17_12
+s77(03Jan2025:15:17:12):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 
+#e78(03Jan2025:15:17:50): source ./xcelium.d/env.d/env.history.03Jan2025_15_17_50
+s78(03Jan2025:15:17:50):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 
+#e79(03Jan2025:15:22:22): source ./xcelium.d/env.d/env.history.03Jan2025_15_22_22
+s79(03Jan2025:15:22:22):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 
+#e80(03Jan2025:15:23:27): source ./xcelium.d/env.d/env.history.03Jan2025_15_23_27
+s80(03Jan2025:15:23:27):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 
+#e81(03Jan2025:15:25:34): source ./xcelium.d/env.d/env.history.03Jan2025_15_25_34
+s81(03Jan2025:15:25:34):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 
+#e82(03Jan2025:15:30:08): source ./xcelium.d/env.d/env.history.03Jan2025_15_30_08
+s82(03Jan2025:15:30:08):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 
+#e83(03Jan2025:15:33:34): source ./xcelium.d/env.d/env.history.03Jan2025_15_33_34
+s83(03Jan2025:15:33:34):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 
+#e84(03Jan2025:15:34:02): source ./xcelium.d/env.d/env.history.03Jan2025_15_34_02
+s84(03Jan2025:15:34:02):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 
+#e85(03Jan2025:15:34:36): source ./xcelium.d/env.d/env.history.03Jan2025_15_34_36
+s85(03Jan2025:15:34:36):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 
+#e86(03Jan2025:15:35:20): source ./xcelium.d/env.d/env.history.03Jan2025_15_35_20
+s86(03Jan2025:15:35:20):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 
+#e87(03Jan2025:15:39:34): source ./xcelium.d/env.d/env.history.03Jan2025_15_39_34
+s87(03Jan2025:15:39:34):  xrun -timescale 1ns/1ps -input sim_model.cmd -incdir ../MODEL -64 -licqueue -access +rwc -createdebugdb -errormax 1 ../MODEL/EXE.v ../MODEL/ALU.v ../MODEL/REGS.v ../TESTBENCH/EXE_tb.v 

@@ -1,0 +1,299 @@
+Picked up _JAVA_OPTIONS:  -XX:+ExitOnOutOfMemoryError -XX:OnOutOfMemoryError="touch /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/verisium_debug_logs/out_of_memory_error" 
+CompilerOracle: exclude javax/swing/text/GlyphView.getBreakSpot
+Loading libdac.so from /cad/cadence_2024/verisium/tools/lib/64bit/libdac.so
+in 'JDACTBDataProvider::openDBInner', dbPath = sim_model, getExplicitLwdFlag() = null
+
+
+**** found lwd dir to be: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v
+
+
+
+**** found cdslib to be: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d/cds.lib
+
+in 'SimConnect::loadSnapshotHelper', 'dbH' represents 'sim_model' db, 'lwdDbH' represents 'sim_model' db, PPEAttributes were fetched from 'sim_model' db. PPEAttributes values:
+    isAutofetch = false
+    isPersistentSources = false
+    isXprop = false
+    cdslib = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d/cds.lib
+    snapshot = worklib.testbench:v
+    workdir = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK
+    xceliumDir = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d
+    rundDir = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d
+    bits = 64
+    cds_implicit_tmpdir = 
+    cds_alternate_tmpdir = 
+    du_agent = 
+    lwddir = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v
+    cds_alternate_cdslib = 
+    elab_options = -CDSLIB ./xcelium.d/run.lnx8664.23.03.d/cds.lib -HDLVAR ./xcelium.d/run.lnx8664.23.03.d/hdl.var -WORK worklib -ENABLE_ALCOMB_EXT_OPT -ERROR 1 -ENABLE_SVMEMOPT -ENABLE_EXT_LOCAL_VISIBILITY -SDF_CMD_FILE gates_sdf_slow.cmd -SDF_VERBOSE -TIMESCALE 1ns/1ps -MESSAGES -ACCESS +rwc -CREATEDEBUGDB testbench
+    found = true
+    nclsRun = false
+    includeCdslib = true
+    nclsOpts =  -snapshot -cdslib /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d/cds.lib -64
+    isMceMode = false
+    isMceInvolved = false
+    mceLshmDbPath = 
+    lowPowerInformationAvailable = false
+    hasLshmFile = false
+    workdirIsDirectory = true
+    hasOverlayRelatedInformation = true
+    cds_implicit_tmplib = worklib
+    cds_other_implicit_tmplibs = 
+
+in 'SimConnect::generateDuAgentCommand', cmd = [/cad/cadence_2024/verisium/tools.lnx86/simvision/bin/64bit/cds-avs-du-agent, -nocopyright, -nowarn, DLNOCL, -xlm_install_root, /cad/cadence_2024/xcelium, -cdslib, /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d/cds.lib, -cds_implicit_tmplib, worklib, -lwddir, /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db, -cellname, testbench, -64]
+in 'SimConnect::execDuAgent_usingPreEstablishedServiceConnection', duAgent process pid = 4598
+
+
+in 'SimConnect::simControlConnectWithPreEstablishedConnection' overlay db = sim_model, overlayH = 9, is valid = true, operation = dapOpenOverlay, duFilename = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db/testbench/testbench.dsn, isLiveSim = false
+
+Dump DB Order:
+Strap design: sim_model #9
+ --> sim_model #16
+ --> /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db/testbench/testbench.dsn #17
+
+End of dump DB Order
+
+
+
+Dump DB Order:
+Strap design: sim_model #9
+ --> sim_model #16
+ --> /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db/testbench/testbench.dsn #17
+
+End of dump DB Order
+
+
+
+
+**** found cdslib to be: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.lnx8664.23.03.d/cds.lib
+
+
+
+**** Lwd path was derived from given DB. Loading lwd file from: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v
+
+### Excluding compile: javax.swing.text.GlyphView::getBreakSpot
+in 'JDACTBDataProvider::notifyLiveConnectionDB', sessionId = shell
+
+
+
+
+
+Dump DB Order:
+Strap design: sim_model #9
+ --> sim_model #16
+ --> /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db/testbench/testbench.dsn #17
+
+End of dump DB Order
+
+
+in 'SimConnect::unloadSnapshot', terminating pid = 4598
+
+Dump DB Order:
+
+End of dump DB Order
+
+
+
+Dump DB Order:
+
+End of dump DB Order
+
+
+in 'JDACTBDataProvider::openDBInner', dbPath = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/sim_model, getExplicitLwdFlag() = null
+
+
+**** found lwd dir to be: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v
+
+
+
+**** found cdslib to be: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d/cds.lib
+
+in 'SimConnect::loadSnapshotHelper', 'dbH' represents 'sim_model' db, 'lwdDbH' represents 'sim_model' db, PPEAttributes were fetched from 'sim_model' db. PPEAttributes values:
+    isAutofetch = false
+    isPersistentSources = false
+    isXprop = false
+    cdslib = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d/cds.lib
+    snapshot = worklib.testbench:v
+    workdir = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK
+    xceliumDir = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d
+    rundDir = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d
+    bits = 64
+    cds_implicit_tmpdir = 
+    cds_alternate_tmpdir = 
+    du_agent = 
+    lwddir = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v
+    cds_alternate_cdslib = 
+    elab_options = -CDSLIB ./xcelium.d/run.lnx8664.23.03.d/cds.lib -HDLVAR ./xcelium.d/run.lnx8664.23.03.d/hdl.var -WORK worklib -ENABLE_ALCOMB_EXT_OPT -ERROR 1 -ENABLE_SVMEMOPT -ENABLE_EXT_LOCAL_VISIBILITY -SDF_CMD_FILE gates_sdf_slow.cmd -SDF_VERBOSE -TIMESCALE 1ns/1ps -MESSAGES -ACCESS +rwc -CREATEDEBUGDB testbench
+    found = true
+    nclsRun = false
+    includeCdslib = true
+    nclsOpts =  -snapshot -cdslib /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d/cds.lib -64
+    isMceMode = false
+    isMceInvolved = false
+    mceLshmDbPath = 
+    lowPowerInformationAvailable = false
+    hasLshmFile = false
+    workdirIsDirectory = true
+    hasOverlayRelatedInformation = true
+    cds_implicit_tmplib = worklib
+    cds_other_implicit_tmplibs = 
+
+in 'SimConnect::generateDuAgentCommand', cmd = [/cad/cadence_2024/verisium/tools.lnx86/simvision/bin/64bit/cds-avs-du-agent, -nocopyright, -nowarn, DLNOCL, -xlm_install_root, /cad/cadence_2024/xcelium, -cdslib, /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d/cds.lib, -cds_implicit_tmplib, worklib, -lwddir, /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db, -cellname, testbench, -64]
+in 'SimConnect::execDuAgent_usingPreEstablishedServiceConnection', duAgent process pid = 5215
+
+
+in 'SimConnect::simControlConnectWithPreEstablishedConnection' overlay db = sim_model, overlayH = 9, is valid = true, operation = dapOpenOverlay, duFilename = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db/testbench/testbench.dsn, isLiveSim = false
+
+Dump DB Order:
+Strap design: sim_model #9
+ --> sim_model #30
+ --> /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db/testbench/testbench.dsn #29
+
+End of dump DB Order
+
+
+
+Dump DB Order:
+Strap design: sim_model #9
+ --> sim_model #30
+ --> /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db/testbench/testbench.dsn #29
+
+End of dump DB Order
+
+
+
+
+**** found cdslib to be: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.lnx8664.23.03.d/cds.lib
+
+
+
+**** Lwd path was derived from given DB. Loading lwd file from: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v
+
+
+Dump DB Order:
+Strap design: sim_model #9
+ --> sim_model #30
+ --> /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db/testbench/testbench.dsn #29
+
+End of dump DB Order
+
+
+
+
+
+
+
+Dump DB Order:
+Strap design: sim_model #9
+ --> sim_model #30
+ --> /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db/testbench/testbench.dsn #29
+
+End of dump DB Order
+
+
+in 'SimConnect::unloadSnapshot', terminating pid = 5215
+
+Dump DB Order:
+
+End of dump DB Order
+
+
+
+Dump DB Order:
+
+End of dump DB Order
+
+
+in 'JDACTBDataProvider::openDBInner', dbPath = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/sim_model, getExplicitLwdFlag() = null
+
+
+**** found lwd dir to be: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v
+
+
+
+**** found cdslib to be: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d/cds.lib
+
+in 'SimConnect::loadSnapshotHelper', 'dbH' represents 'sim_model' db, 'lwdDbH' represents 'sim_model' db, PPEAttributes were fetched from 'sim_model' db. PPEAttributes values:
+    isAutofetch = false
+    isPersistentSources = false
+    isXprop = false
+    cdslib = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d/cds.lib
+    snapshot = worklib.testbench:v
+    workdir = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK
+    xceliumDir = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d
+    rundDir = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d
+    bits = 64
+    cds_implicit_tmpdir = 
+    cds_alternate_tmpdir = 
+    du_agent = 
+    lwddir = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v
+    cds_alternate_cdslib = 
+    elab_options = -CDSLIB ./xcelium.d/run.lnx8664.23.03.d/cds.lib -HDLVAR ./xcelium.d/run.lnx8664.23.03.d/hdl.var -WORK worklib -ENABLE_ALCOMB_EXT_OPT -ERROR 1 -ENABLE_SVMEMOPT -ENABLE_EXT_LOCAL_VISIBILITY -SDF_CMD_FILE gates_sdf_slow.cmd -SDF_VERBOSE -TIMESCALE 1ns/1ps -MESSAGES -ACCESS +rwc -CREATEDEBUGDB testbench
+    found = true
+    nclsRun = false
+    includeCdslib = true
+    nclsOpts =  -snapshot -cdslib /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d/cds.lib -64
+    isMceMode = false
+    isMceInvolved = false
+    mceLshmDbPath = 
+    lowPowerInformationAvailable = false
+    hasLshmFile = false
+    workdirIsDirectory = true
+    hasOverlayRelatedInformation = true
+    cds_implicit_tmplib = worklib
+    cds_other_implicit_tmplibs = 
+
+in 'SimConnect::generateDuAgentCommand', cmd = [/cad/cadence_2024/verisium/tools.lnx86/simvision/bin/64bit/cds-avs-du-agent, -nocopyright, -nowarn, DLNOCL, -xlm_install_root, /cad/cadence_2024/xcelium, -cdslib, /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.d/cds.lib, -cds_implicit_tmplib, worklib, -lwddir, /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db, -cellname, testbench, -64]
+in 'SimConnect::execDuAgent_usingPreEstablishedServiceConnection', duAgent process pid = 6068
+
+
+in 'SimConnect::simControlConnectWithPreEstablishedConnection' overlay db = sim_model, overlayH = 9, is valid = true, operation = dapOpenOverlay, duFilename = /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db/testbench/testbench.dsn, isLiveSim = false
+
+Dump DB Order:
+Strap design: sim_model #9
+ --> sim_model #31
+ --> /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db/testbench/testbench.dsn #32
+
+End of dump DB Order
+
+
+
+Dump DB Order:
+Strap design: sim_model #9
+ --> sim_model #31
+ --> /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db/testbench/testbench.dsn #32
+
+End of dump DB Order
+
+
+
+
+**** found cdslib to be: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/run.lnx8664.23.03.d/cds.lib
+
+
+
+**** Lwd path was derived from given DB. Loading lwd file from: /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v
+
+
+Dump DB Order:
+Strap design: sim_model #9
+ --> sim_model #31
+ --> /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db/testbench/testbench.dsn #32
+
+End of dump DB Order
+
+
+
+
+
+
+
+
+
+Dump DB Order:
+Strap design: sim_model #9
+ --> /lab/sck17/Pulpit/SCKproj1/SCK_PROJ_SYNT2/WORK/xcelium.d/worklib/testbench/v/debug_db/testbench/testbench.dsn #32
+
+End of dump DB Order
+
+

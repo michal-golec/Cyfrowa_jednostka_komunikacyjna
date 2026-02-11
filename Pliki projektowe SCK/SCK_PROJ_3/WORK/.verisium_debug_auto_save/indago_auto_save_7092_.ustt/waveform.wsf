@@ -1,0 +1,38 @@
+# Indago Command Script (Fri, 3 Jan 2025 15:43:57 +0100)
+#
+# Version 24.03.001-s
+
+#
+# Markers
+#
+# CDL at time 59.91ns
+
+#
+# Time Folding
+#
+
+#
+# Sequence Time Expansions
+#
+
+#
+# Column Configuration
+#
+waveform column remove -all
+waveform column configure -align left -width 9 name
+waveform column configure -align left -width 5 value
+
+#
+# Signal List
+#
+waveform add -expand {EXE_tb.exe1}
+
+#
+# Visible Time Range
+#
+waveform xview limits 0ns 62ns
+
+#
+# Insertion Point
+#
+waveform insertion {,-1}

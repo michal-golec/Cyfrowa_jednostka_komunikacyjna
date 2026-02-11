@@ -1,0 +1,75 @@
+xrun(64): 23.03-s007: (c) Copyright 1995-2023 Cadence Design Systems, Inc.
+TOOL:	xrun(64)	23.03-s007: Started on Jan 16, 2025 at 10:17:45 CET
+xrun
+	-timescale 1ns/1ps
+	-input sim_model.cmd
+	-incdir ../MODEL
+	-64
+	-licqueue
+	-access +rwc
+	-createdebugdb
+	-errormax 1
+	../MODEL/ALU.v
+	../TESTBENCH/ALU_tb.v
+file: ../MODEL/ALU.v
+	module worklib.ALU:v
+		errors: 0, warnings: 0
+file: ../TESTBENCH/ALU_tb.v
+	module worklib.ALU_tb:v
+		errors: 0, warnings: 0
+xmvlog: *W,SPDUSD: Include directory ../MODEL given but not used.
+	Total errors/warnings found outside modules and primitives:
+		errors: 0, warnings: 1
+		Caching library 'worklib' ....... Done
+	Elaborating the design hierarchy:
+    ALU u1 (.i_arg0(i_arg0), .i_arg1(i_arg1), .i_oper(i_oper), .o_result(o_result), .o_flag(o_flag));
+         |
+xmelab: *W,CUVWSI (../TESTBENCH/ALU_tb.v,10|9): 2 input ports were not connected:
+xmelab: (../MODEL/ALU.v,5): i_data
+xmelab: (../MODEL/ALU.v,6): i_imm
+
+	Top level design units:
+		ALU_tb
+    ALU u1 (.i_arg0(i_arg0), .i_arg1(i_arg1), .i_oper(i_oper), .o_result(o_result), .o_flag(o_flag));
+                                                           |
+xmelab: *W,CUVMPW (../TESTBENCH/ALU_tb.v,10|59): port sizes differ in port connection(2/3) for the instance(ALU_tb) .
+	Building instance overlay tables: .................... Done
+	Generating native compiled code:
+		worklib.ALU:v <0x71cc53ff>
+			streams:   1, words:  3719
+		worklib.ALU_tb:v <0x252d5f03>
+			streams:   4, words:  3624
+	Building instance specific data structures.
+	Loading native compiled code:     .................... Done
+	Generating Debug Data:
+		LWD Database path: (/lab/sck17/Pulpit/SCKproj1/SCK_PROJ_1/WORK/xcelium.d/worklib/ALU_tb/v/debug_db/ALU_tb)
+		Power Aware Instances:                    0
+		Liberty Instances:                        0
+		Out Of Module References:                 0
+		Assertions:                               0
+		Liberty Information:
+			PG Pins:	                  0
+			Liberty Pins:	                  0
+	Design hierarchy summary:
+		                 Instances  Unique
+		Modules:                 2       2
+		Registers:               6       6
+		Scalar wires:            1       -
+		Vectored wires:          6       -
+		Always blocks:           1       1
+		Initial blocks:          1       1
+		Pseudo assignments:      3       -
+		Simulation timescale:  1ps
+	Writing initial simulation snapshot: worklib.ALU_tb:v
+Loading snapshot worklib.ALU_tb:v .................... Done
+xcelium> source /cad/cadence_2024/xcelium/tools/xcelium/files/xmsimrc
+xcelium> 
+xcelium> database -open sim_model -event -shm -into sim_model -default
+Created default SHM database sim_model
+xcelium> probe -all -memories -functions -tasks -depth all -database sim_model -create
+Created probe 1
+xcelium> run
+Simulation complete via $finish(1) at time 5 NS + 0
+../TESTBENCH/ALU_tb.v:41         $finish;
+xcelium> exit
+TOOL:	xrun(64)	23.03-s007: Exiting on Jan 16, 2025 at 10:17:47 CET  (total: 00:00:02)
